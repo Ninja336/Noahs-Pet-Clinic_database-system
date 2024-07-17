@@ -1,1 +1,11 @@
 # Noah-s-Pet-Clinic_database-system
+
+An extensive examination of the present appointment and registration is given in this executive summary. This executive summary provides a detailed analysis of the current appointment and registration system at Noah's Pet Clinic (NPC), a veterinary clinic located in a rural part of Manchester. The overview highlights the challenges that the current system's flaws cause for pet owners, receptionists, veterinarians, and vet nurses. This document proposes a comprehensive redesign of the appointment and registration system to increase accessibility and efficiency. The solution consists of an elegant procedure for pet owners to schedule visits and register their pets, a combined database that is accessible to all clinic employees, an easy-to-use interface, and the advantages of using the new system such as improved customer service, operational effectiveness, and data security.
+
+Purpose of our Report:
+This aim assists in addressing the issues or challenges NPC faces and renders them great information system & and database solutions. Thereafter, the goal here is to increase accessibility, efficiency, and accuracy of appointments and as well as registration processes, for both Clinic staff and pet owners
+
+Problem Statement:
+The appointment and registration system at Noah's Pet Clinic (NPC) is currently experiencing several issues that affect both pet owners and clinic employees. These problems include inadequate or erroneous information on registration forms, trouble accessing and retrieving appointment details, and the absence of a centralised database for effective record-keeping. Furthermore, pet owners cannot easily schedule appointments with the current system's unintuitive interface, which could cause annoyance and inefficiency. Moreover, data security issues have been found, emphasising the necessity for improved safeguards to secure pet and owner data. All of these difficulties make it more difficult for the clinic to deliver smooth, effective services, which eventually affects client happiness and overall operational efficacy. Therefore, in order to solve these problems and enhance both the overall experience of pet owners and clinic employees at NPC, it is imperative that the appointment and registration system be upgraded.
+
+For further information refer 'groupA12repor' word document.
