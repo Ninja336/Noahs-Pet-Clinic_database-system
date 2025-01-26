@@ -1,4 +1,4 @@
-# Noah-s-Pet-Clinic_database-system
+# Noah's Pet-Clinic-Data-Analytics-System
 Technologies used:  Oracle APEX, Microsoft Excel, Visual Paradigm.
 
 An extensive examination of the present appointment and registration is given in this executive summary. This executive summary provides a detailed analysis of the current appointment and registration system at Noah's Pet Clinic (NPC), a veterinary clinic located in a rural part of Manchester. The overview highlights the challenges that the current system's flaws cause for pet owners, receptionists, veterinarians, and vet nurses. This document proposes a comprehensive redesign of the appointment and registration system to increase accessibility and efficiency. The solution consists of an elegant procedure for pet owners to schedule visits and register their pets, a combined database that is accessible to all clinic employees, an easy-to-use interface, and the advantages of using the new system such as improved customer service, operational effectiveness, and data security.
